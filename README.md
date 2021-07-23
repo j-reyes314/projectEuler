@@ -1,3 +1,3 @@
-# classWork
+# Project Euler
 
-Several projects made for class
+Several projects from project euler website
